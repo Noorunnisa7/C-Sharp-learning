@@ -1,0 +1,32 @@
+Task 1:
+Q1)Write a C# program that asks the user to enter numbers continuously.
+
+If the number is negative, skip it using continue.
+
+If the number is greater than 100, stop the loop using break.
+
+If the number is even, display "Even number".
+
+If the number is odd, display "Odd number".
+
+Task 2: Character Triangle
+Print a triangle of characters (A, B, C, etc.) like this:
+
+A
+B B
+C C C
+D D D D
+E E E E E
+
+Task 6: Star Diamond Pattern
+ Print a star diamond shape:
+
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
