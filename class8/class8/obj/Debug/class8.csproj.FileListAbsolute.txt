@@ -1,0 +1,7 @@
+C:\Users\Teacher\Documents\C#-learning\class8\class8\bin\Debug\class8.exe.config
+C:\Users\Teacher\Documents\C#-learning\class8\class8\bin\Debug\class8.exe
+C:\Users\Teacher\Documents\C#-learning\class8\class8\bin\Debug\class8.pdb
+C:\Users\Teacher\Documents\C#-learning\class8\class8\obj\Debug\class8.csproj.AssemblyReference.cache
+C:\Users\Teacher\Documents\C#-learning\class8\class8\obj\Debug\class8.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Documents\C#-learning\class8\class8\obj\Debug\class8.exe
+C:\Users\Teacher\Documents\C#-learning\class8\class8\obj\Debug\class8.pdb
