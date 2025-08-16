@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teacher\\Documents\\C-Sharp-learning\\class9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D503C64-5866-4C4B-9CAF-26874A31F283}|class9\\class9.csproj|c:\\users\\teacher\\documents\\c-sharp-learning\\class9\\class9\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D503C64-5866-4C4B-9CAF-26874A31F283}|class9\\class9.csproj|solutionrelative:class9\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D503C64-5866-4C4B-9CAF-26874A31F283}|class9\\class9.csproj|c:\\users\\teacher\\documents\\c-sharp-learning\\class9\\class9\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D503C64-5866-4C4B-9CAF-26874A31F283}|class9\\class9.csproj|solutionrelative:class9\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D503C64-5866-4C4B-9CAF-26874A31F283}|class9\\class9.csproj|c:\\users\\teacher\\documents\\c-sharp-learning\\class9\\class9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D503C64-5866-4C4B-9CAF-26874A31F283}|class9\\class9.csproj|solutionrelative:class9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\C-Sharp-learning\\class9\\class9\\Student.cs",
+              "RelativeDocumentMoniker": "class9\\Student.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\C-Sharp-learning\\class9\\class9\\Student.cs",
+              "RelativeToolTip": "class9\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:47:10.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\C-Sharp-learning\\class9\\class9\\Animal.cs",
+              "RelativeDocumentMoniker": "class9\\Animal.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\C-Sharp-learning\\class9\\class9\\Animal.cs",
+              "RelativeToolTip": "class9\\Animal.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:32:45.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\C-Sharp-learning\\class9\\class9\\Program.cs",
+              "RelativeDocumentMoniker": "class9\\Program.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\C-Sharp-learning\\class9\\class9\\Program.cs",
+              "RelativeToolTip": "class9\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:20:50.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

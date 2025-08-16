@@ -1,0 +1,8 @@
+C:\Users\Teacher\Documents\C-Sharp-learning\class9\class9\bin\Debug\class9.exe.config
+C:\Users\Teacher\Documents\C-Sharp-learning\class9\class9\bin\Debug\class9.exe
+C:\Users\Teacher\Documents\C-Sharp-learning\class9\class9\bin\Debug\class9.pdb
+C:\Users\Teacher\Documents\C-Sharp-learning\class9\class9\obj\Debug\class9.csproj.AssemblyReference.cache
+C:\Users\Teacher\Documents\C-Sharp-learning\class9\class9\obj\Debug\class9.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Documents\C-Sharp-learning\class9\class9\obj\Debug\class9.exe
+C:\Users\Teacher\Documents\C-Sharp-learning\class9\class9\obj\Debug\class9.pdb
+C:\Users\Teacher\Documents\C-Sharp-learning\class9\class9\obj\Debug\class9.exe.config
