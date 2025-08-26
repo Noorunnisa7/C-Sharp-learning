@@ -1,0 +1,7 @@
+C:\Users\Teacher\Documents\C-Sharp-learning\class11\class11\bin\Debug\class11.exe.config
+C:\Users\Teacher\Documents\C-Sharp-learning\class11\class11\bin\Debug\class11.exe
+C:\Users\Teacher\Documents\C-Sharp-learning\class11\class11\bin\Debug\class11.pdb
+C:\Users\Teacher\Documents\C-Sharp-learning\class11\class11\obj\Debug\class11.csproj.AssemblyReference.cache
+C:\Users\Teacher\Documents\C-Sharp-learning\class11\class11\obj\Debug\class11.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Documents\C-Sharp-learning\class11\class11\obj\Debug\class11.exe
+C:\Users\Teacher\Documents\C-Sharp-learning\class11\class11\obj\Debug\class11.pdb
