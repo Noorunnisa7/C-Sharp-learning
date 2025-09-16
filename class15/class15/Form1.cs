@@ -26,7 +26,9 @@ namespace class15
 
         private void clear_Click(object sender, EventArgs e)
         {
-            ResultBox.Clear();
+           string  text = ResultBox.Text;
+
+            ResultBox.Text = text.Remove(text.Length - 1 );
         }
 
         private void btn1_Click(object sender, EventArgs e)

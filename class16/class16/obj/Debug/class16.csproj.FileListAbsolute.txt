@@ -1,0 +1,11 @@
+C:\Users\Teacher\Documents\C-Sharp-learning\class16\class16\bin\Debug\class16.exe.config
+C:\Users\Teacher\Documents\C-Sharp-learning\class16\class16\bin\Debug\class16.exe
+C:\Users\Teacher\Documents\C-Sharp-learning\class16\class16\bin\Debug\class16.pdb
+C:\Users\Teacher\Documents\C-Sharp-learning\class16\class16\obj\Debug\class16.csproj.AssemblyReference.cache
+C:\Users\Teacher\Documents\C-Sharp-learning\class16\class16\obj\Debug\class16.Form1.resources
+C:\Users\Teacher\Documents\C-Sharp-learning\class16\class16\obj\Debug\class16.Form2.resources
+C:\Users\Teacher\Documents\C-Sharp-learning\class16\class16\obj\Debug\class16.Properties.Resources.resources
+C:\Users\Teacher\Documents\C-Sharp-learning\class16\class16\obj\Debug\class16.csproj.GenerateResource.cache
+C:\Users\Teacher\Documents\C-Sharp-learning\class16\class16\obj\Debug\class16.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Documents\C-Sharp-learning\class16\class16\obj\Debug\class16.exe
+C:\Users\Teacher\Documents\C-Sharp-learning\class16\class16\obj\Debug\class16.pdb
